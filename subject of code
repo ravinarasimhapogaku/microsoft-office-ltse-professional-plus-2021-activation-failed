@@ -1,0 +1,9 @@
+Microsft office ltse professiuona l plus 2021 activation failed solution
+open files>c_drive>program _files>>microsoft_office>>office_16
+copy the above file path and open command prompt 
+command prompt---->> right click--->>> run as administrator
+in the command prompt 
+cd C:\Program Files\Microsoft Office\Office16(file of the office_16 as stated above)
+C:\Program Files\Microsoft Office\Office16\cscript ospp.vsd /sethst:kms.03k.org
+C:\Program Files\Microsoft Office\Office16\cscript ospp.vbs /act
+#this helps in restoring your activation 
